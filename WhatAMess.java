@@ -4,7 +4,7 @@
  * Add appropriate spacing, line breaks, indentation, and all that.
  * Find the syntax errors so that it compiles.
  * Find the logic errors so that it works correctly.
- * Author: Michael Buescher
+ * @author: Michael Buescher
  */
 
 import java.util.Scanner; public class WhatAMess {  public static void main(String[] args)
